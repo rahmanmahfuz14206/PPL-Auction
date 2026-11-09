@@ -1,0 +1,6 @@
+{
+  "name": "Psychology Premier League-26 Auction Board",
+  "description": "Live interactive player auction board for Psychology Premier League-26 intra-department university cricket tournament with real-time bidding, team rosters, and instant sold animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
